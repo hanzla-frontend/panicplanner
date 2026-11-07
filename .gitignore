@@ -1,0 +1,7 @@
+.env
+*.db
+plans.json
+__pycache__/
+node_modules/
+.next/
+.venv/
